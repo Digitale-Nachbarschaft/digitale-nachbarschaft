@@ -90,7 +90,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/vsNpaknuS4c"
+                 "value":"https:\/\/atiptap.org\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,7 +108,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/atiptap.org\/"
+                 "value":"https:\/\/www.youtube.com\/embed\/vsNpaknuS4c"
                 }],
          "type":"tilelayer",
          "visible":true,
