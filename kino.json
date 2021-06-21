@@ -54,7 +54,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/CXGz2Azd6hE"
+                 "value":"https:\/\/player.twitch.tv\/js\/embed\/v1.js"
                 }],
          "type":"tilelayer",
          "visible":true,
