@@ -174,7 +174,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ortstermin.kunstverein-tiergarten.de\/ausstellungen-und-offene-ateliers"
+                 "value":"https:\/\/ortstermin.kunstverein-tiergarten.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
