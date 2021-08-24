@@ -174,7 +174,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zap794687-1.plesk10.zap-webspace.com\/ortstermin\/"
+                 "value":"http:\/\/ortstermin.42web.io\/ortstermin\/?i=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -192,7 +192,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zap794687-1.plesk10.zap-webspace.com\/ortstermin\/spinwheel\/"
+                 "value":"http:\/\/ortstermin.42web.io\/ortstermin\/spinwheel\/"
                 }],
          "type":"tilelayer",
          "visible":true,
