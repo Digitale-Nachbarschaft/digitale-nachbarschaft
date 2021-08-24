@@ -174,7 +174,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ortstermin.42web.io\/ortstermin\/index.html"
+                 "value":"https:\/\/onixoo.com\/ortstermin\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -192,7 +192,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ortstermin.42web.io\/ortstermin\/spinwheel\/index.html"
+                 "value":"https:\/\/onixoo.com\/ortstermin\/spinwheel\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
