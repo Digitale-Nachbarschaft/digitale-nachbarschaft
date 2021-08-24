@@ -174,7 +174,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/ortstermin.42web.io\/ortstermin\/?i=1"
+                 "value":"http:\/\/ortstermin.42web.io\/ortstermin\/"
                 }],
          "type":"tilelayer",
          "visible":true,
