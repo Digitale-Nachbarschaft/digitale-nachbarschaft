@@ -192,7 +192,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/ortstermin.42web.io\/ortstermin\/spinwheel\/index.html"
+                 "value":"https:\/\/ortstermin.kunstverein-tiergarten.de\/ortstermin-21"
                 }],
          "type":"tilelayer",
          "visible":true,
