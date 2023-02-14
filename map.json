@@ -410,23 +410,11 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/moabit.world\/veranstaltungen\/"
+                 "value":"https:\/\/gwa-stpauli.de\/kalender\/"
                 }],
          "type":"tilelayer",
          "visible":true,
          "width":66,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":58,
-         "image":"assets\/gwa_st_pauli_logo_120px.png",
-         "name":"GWA",
-         "offsetx":736,
-         "offsety":964,
-         "opacity":1,
-         "type":"imagelayer",
-         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1216,6 +1204,18 @@
          "type":"tilelayer",
          "visible":true,
          "width":66,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "id":58,
+         "image":"assets\/gwa_st_pauli_logo_120px.png",
+         "name":"GWA",
+         "offsetx":736,
+         "offsety":964,
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
          "x":0,
          "y":0
         }, 
